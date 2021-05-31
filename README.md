@@ -1,38 +1,39 @@
 
 ### Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm yuchen (clarkyu).
 
+<!--
+refer to: https://github.com/spectertraww/spectertraww
+-->
+
 I'am yuchen, coder...
 
 :mailbox: Reach me out!
 
 <!--
-[![Twitter Badge](https://img.shields.io/badge/-@spectertraww-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/spectertraww)](https://twitter.com/spectertraww) 
-[![Mail Badge](https://img.shields.io/badge/-XTREMESEC-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/xtremesec) 
-[![Mail Badge](https://img.shields.io/badge/-LevelivSecurity-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/levelivsec) 
-[![Mail Badge](https://img.shields.io/badge/-@spectertraww-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/spectertraww) [![Mail Badge](https://img.shields.io/badge/-spectertraww-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:spectertraww@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@spectertraww-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/spectertraww)](https://twitter.com/clark_yu) 
+[![Mail Badge](https://img.shields.io/badge/-XTREMESEC-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com) 
+[![Mail Badge](https://img.shields.io/badge/-LevelivSecurity-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com) 
+[![Mail Badge](https://img.shields.io/badge/-@spectertraww-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com) [![Mail Badge](https://img.shields.io/badge/-spectertraww-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:clarkyu@vip.qq.com)
 -->
 
-#### Communities 🕵🕵
-##### Join our amazing hackers discord community in invite link below
+### Communities 🕵🕵
 
- [![Discord](https://img.shields.io/discord/805879201961607178?color=green&label=@XTREMESEC&logo=Discord&style=flat-square&link=https://discord.gg/pM6GF6PaJF)](https://discord.gg/pM6GF6PaJF)
-
-- 🔭 I’m currently working at @xtremesec
+- 🔭 I’m currently working at @home
 - :computer: Most used line of code `import socket`
 - 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: spectertraww@gmail.com : https://instagram.com/spectertraww.
+- 📫 How to reach me: clarkyu@vip.qq.com.
 - 😄 Pronouns: XTREMESEC, 0XC8 - HACKING RESOURCES, NOOBSEC, Level iv Security, premimiumrigs.
-- ⚡ Fun fact: I play games and read a few novels.
+- ⚡ Fun fact: I play games and watch ⚽️.
 
-#### Top Technologies
+### Top Technologies
 
 <br />
 <br />
 
-#### Bizness
+### Business
 - :email: clarkyu@vip.qq.com
 
-#### Profile Visits 
+### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=yuchen.yuchen)
 
@@ -47,7 +48,7 @@ I love sharing knowledge and putting tutorials, courses and posts together for h
 
 ---
 
-#### What is Xtreme Security 🕵🕵?
+### What is Xtreme Security 🕵🕵?
 
  N00BSEC discord server is a community driven server that supports  programming  technology, bug bounty, ethical Hacking  discussions.
 
@@ -73,15 +74,13 @@ YAML            ░░░░░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-#### Github Stats
+### Github Stats
 
 ![TRÄW's🤟 github stats](https://github-readme-stats.vercel.app/api?username=spectertraww&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 </details>
 
 <!--
-refer to: https://github.com/spectertraww/spectertraww
-
 **yuchen/yuchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
